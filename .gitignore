@@ -20,14 +20,3 @@ pnpm-debug.log*
 .idea/
 .DS_Store
 Thumbs.db
-
-# Ignore images
-public/images/
-src/assets/images/
-
-# Ignore certificates
-public/certificates/
-src/assets/certificates/
-
-# Ignore PDF certificates
-*.pdf
